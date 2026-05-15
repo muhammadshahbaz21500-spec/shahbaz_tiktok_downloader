@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T11:13:39.258380Z",
+  "updated_at": "2026-05-15T11:14:36.114641Z",
   "licenses": [
     {
       "id": 2,
@@ -394,6 +394,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T11:13:39.258356Z"
+    },
+    {
+      "id": 30,
+      "key_plain": "YPMA-KRAT-A7BT-53N5",
+      "key_hash": "251cab038ba8a51057e1e8a7ad31a1d6fc978f6053d6d474289793581e44c635",
+      "fingerprint_hash": "670fd04b58e3e725acd929941f381e3b552cd5b3e73ed85d58b428760a13122f",
+      "label": "",
+      "user_name": "Qamar Niazi",
+      "user_email": "",
+      "activation_date": "2026-05-15",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T11:14:36.114616Z"
     }
   ]
 }
