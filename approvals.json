@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T10:25:46.508190Z",
+  "updated_at": "2026-05-15T10:29:35.456943Z",
   "licenses": [
     {
       "id": 2,
@@ -296,6 +296,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T10:25:46.508163Z"
+    },
+    {
+      "id": 23,
+      "key_plain": "LTGK-JW9U-QDDG-WFKL",
+      "key_hash": "ecf2ecb07a5044cb3984e8d171a67d1d2a3666770361c13b29d7d65b2cc7d4ad",
+      "fingerprint_hash": "40a5beefc8376f44100018846e40c05d07327011d7b2c85adc4574021bee02d1",
+      "label": "",
+      "user_name": "Faisal pc 2",
+      "user_email": "",
+      "activation_date": "2026-05-15",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T10:29:35.456910Z"
     }
   ]
 }
