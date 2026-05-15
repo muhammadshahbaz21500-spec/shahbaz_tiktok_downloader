@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T05:29:01.858933Z",
+  "updated_at": "2026-05-15T05:29:08.735726Z",
   "licenses": [
     {
       "id": 1,
@@ -156,6 +156,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T05:24:23.159936Z"
+    },
+    {
+      "id": 12,
+      "key_plain": "TURM-KHR5-ZE9F-H2M4",
+      "key_hash": "3f5c8529012bb9e1ea0c752d0ee534a3926a1103e7c392368bcf408093175958",
+      "fingerprint_hash": "edb35224588c55341f10484b17551756dd2aa766a2068b3796e6abd11686c4c6",
+      "label": "ayesha",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-14",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T05:29:08.735715Z"
     }
   ]
 }
