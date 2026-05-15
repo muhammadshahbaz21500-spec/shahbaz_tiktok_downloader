@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T05:29:08.735726Z",
+  "updated_at": "2026-05-15T05:42:05.093777Z",
   "licenses": [
     {
       "id": 1,
@@ -170,6 +170,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T05:29:08.735715Z"
+    },
+    {
+      "id": 13,
+      "key_plain": "UJZV-4NEA-G674-TJBQ",
+      "key_hash": "1659dbb835a0a8784172672d13daf9da55de85d0da7fc4dd4593f41b9bdb4c46",
+      "fingerprint_hash": "0d34126bf4650aae4c1b81de7f98a38074f2997227ce6b572197ac35337b32a5",
+      "label": "hameed",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-14",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T05:42:05.093766Z"
     }
   ]
 }
