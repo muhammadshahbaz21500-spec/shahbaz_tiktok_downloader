@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T09:45:07.034321Z",
+  "updated_at": "2026-05-15T09:45:47.922755Z",
   "licenses": [
     {
       "id": 1,
@@ -212,6 +212,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T09:45:07.034312Z"
+    },
+    {
+      "id": 16,
+      "key_plain": "D42L-PLFX-XPBK-D2WU",
+      "key_hash": "7fd674837a2a4f6d1ac227ce3121c4fa97f4c6b5d6f30b1b99a603c5f6aeeee0",
+      "fingerprint_hash": "6d1eca53017380eea0fa6c23d7faa4f77fa371e6b8fed23c970d721370a2eab9",
+      "label": "",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-15",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T09:45:47.922746Z"
     }
   ]
 }
