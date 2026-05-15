@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T10:02:48.179924Z",
+  "updated_at": "2026-05-15T10:08:28.421785Z",
   "licenses": [
     {
       "id": 2,
@@ -240,6 +240,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T10:02:48.179906Z"
+    },
+    {
+      "id": 19,
+      "key_plain": "B36W-UHNG-59KX-VTXJ",
+      "key_hash": "4b913747d59a670af1663f63181aa5eeb0a358e8d03fdc1344017f2020ca01e5",
+      "fingerprint_hash": "e4679a7b37788da51b6538c834134fa98e9bef4cc8046b0542bbf61e254f7c7c",
+      "label": "",
+      "user_name": "Faisal lap",
+      "user_email": "",
+      "activation_date": "2026-05-15",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T10:08:28.421692Z"
     }
   ]
 }
