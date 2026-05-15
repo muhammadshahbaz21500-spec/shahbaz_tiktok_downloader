@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T17:36:12.675106Z",
+  "updated_at": "2026-05-15T17:36:38.609409Z",
   "licenses": [
     {
       "id": 2,
@@ -520,6 +520,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T17:36:12.675071Z"
+    },
+    {
+      "id": 39,
+      "key_plain": "H6NC-7ZU4-474W-7JJ2",
+      "key_hash": "ca16e0dce5fbb9ba977dd49745e03d6609104b348b296623302e841165d4686a",
+      "fingerprint_hash": "f059ba5fbbbe65b10c04bc75e656ab44675c7a003f7e0909d07c55c73078d6a9",
+      "label": "",
+      "user_name": "Rai pc 2",
+      "user_email": "",
+      "activation_date": "2026-05-15",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T17:36:38.609383Z"
     }
   ]
 }
