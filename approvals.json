@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T17:33:59.248663Z",
+  "updated_at": "2026-05-15T17:35:18.412025Z",
   "licenses": [
     {
       "id": 2,
@@ -492,6 +492,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T17:33:59.248645Z"
+    },
+    {
+      "id": 37,
+      "key_plain": "3V3N-FVZK-4LF8-UYNE",
+      "key_hash": "51a1643b91b4c2d3d2b8db6ad5cb444b12ee88f51770b81e087c7ed2c91575f0",
+      "fingerprint_hash": "f3153fbc2d004e8b0f20b2a3043e131ebf538af9d29e5649866a6885e1e75881",
+      "label": "",
+      "user_name": "Basit pc 2",
+      "user_email": "",
+      "activation_date": "2026-05-15",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T17:35:18.412008Z"
     }
   ]
 }
