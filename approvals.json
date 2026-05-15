@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T05:07:20.978704Z",
+  "updated_at": "2026-05-15T05:07:51.674524Z",
   "licenses": [
     {
       "id": 1,
@@ -72,6 +72,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T05:07:20.978693Z"
+    },
+    {
+      "id": 6,
+      "key_plain": "DH45-JHPL-JE78-TQHK",
+      "key_hash": "8870c5491c78a6b56e97b795347c083ef84cb938b6b5f6a1dfbbdc86534aed20",
+      "fingerprint_hash": "735c0d2b1da518656254638573b3d0ee6d1b4bb3c974aecfd2b3c329c23a261f",
+      "label": "sania",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-14",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T05:07:51.674513Z"
     }
   ]
 }
