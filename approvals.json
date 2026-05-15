@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T10:08:28.421785Z",
+  "updated_at": "2026-05-15T10:13:32.716062Z",
   "licenses": [
     {
       "id": 2,
@@ -254,6 +254,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T10:08:28.421692Z"
+    },
+    {
+      "id": 20,
+      "key_plain": "TVDV-LX9L-H89C-5FT6",
+      "key_hash": "186f554b0699813d95f59516ddb982606f77e8cb5091987f7ad85dbd83e54598",
+      "fingerprint_hash": "adadabd991acdc07f94f4523a0a1f46153d4611af83332380cc76e191707d6ff",
+      "label": "",
+      "user_name": "touqeer pc",
+      "user_email": "",
+      "activation_date": "2026-05-15",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T10:13:32.715979Z"
     }
   ]
 }
