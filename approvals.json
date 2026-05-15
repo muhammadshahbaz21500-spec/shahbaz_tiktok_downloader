@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-14T14:14:13.944385Z",
+  "updated_at": "2026-05-15T03:51:41.834266Z",
   "licenses": [
     {
       "id": 1,
@@ -16,6 +16,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-14T14:14:13.944367Z"
+    },
+    {
+      "id": 2,
+      "key_plain": "3V96-FM5B-DN5Z-QCR5",
+      "key_hash": "8e1e4f0b29539050925206e44475c9494d3a49e9295b6bbd9a73f5073da8ece9",
+      "fingerprint_hash": "9d2614b3d681ef9ed97a7bd6aa75f2c2bc24080a25cb8b7c7f02351aa17cc005",
+      "label": "Shahbaz pc",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-15",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T03:51:41.834249Z"
     }
   ]
 }
