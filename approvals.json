@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T17:32:26.380546Z",
+  "updated_at": "2026-05-15T17:33:02.920889Z",
   "licenses": [
     {
       "id": 2,
@@ -464,6 +464,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T17:32:26.380527Z"
+    },
+    {
+      "id": 35,
+      "key_plain": "584F-3TVY-MYJJ-6E2N",
+      "key_hash": "e1ee6f8b2475fc81b1b7ba9ccaa806e7286e864c83528a91fbdba15e7c873cc0",
+      "fingerprint_hash": "bc85f3a7ef2b15b8c4e544c5f0d8ef557b23c5519c28963053d0440b20a672f6",
+      "label": "",
+      "user_name": "Yasir Bilal",
+      "user_email": "",
+      "activation_date": "2026-05-15",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T17:33:02.920875Z"
     }
   ]
 }
