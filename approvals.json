@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T05:09:27.210323Z",
+  "updated_at": "2026-05-15T05:24:05.248330Z",
   "licenses": [
     {
       "id": 1,
@@ -128,6 +128,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T05:09:27.210313Z"
+    },
+    {
+      "id": 10,
+      "key_plain": "Q3MD-S6MT-YAFD-38YR",
+      "key_hash": "f549ea4ecf2f8e4e50f6ffaa4d7e80775258badc0e1f4c979420337ca6ef3d3d",
+      "fingerprint_hash": "aead7b62b8b157ea97a1481bcb2d5da8e0ca1caa08fcfc5147652a4294da46f1",
+      "label": "samya",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-14",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T05:24:05.248318Z"
     }
   ]
 }
