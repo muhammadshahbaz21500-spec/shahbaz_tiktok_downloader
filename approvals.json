@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T10:22:55.088768Z",
+  "updated_at": "2026-05-15T10:25:34.525136Z",
   "licenses": [
     {
       "id": 2,
@@ -282,20 +282,6 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T10:20:16.154558Z"
-    },
-    {
-      "id": 22,
-      "key_plain": "VAMU-2939-LX6X-MNBS",
-      "key_hash": "84c3e5b34786689ae060d49cff9faf6a41b31e744b837a5c2194f6bb12eb55e9",
-      "fingerprint_hash": "30d6f347c9b2bea0d13a9bb52a35746767d85fad2657299b66719b2695ed8751",
-      "label": "",
-      "user_name": "Faisal pc 1",
-      "user_email": "",
-      "activation_date": "2026-05-15",
-      "expiry": null,
-      "max_devices": 1,
-      "status": "active",
-      "created_at": "2026-05-15T10:22:55.088741Z"
     }
   ]
 }
