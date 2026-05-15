@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T05:07:51.674524Z",
+  "updated_at": "2026-05-15T05:08:14.722525Z",
   "licenses": [
     {
       "id": 1,
@@ -86,6 +86,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T05:07:51.674513Z"
+    },
+    {
+      "id": 7,
+      "key_plain": "MASU-URVR-JY2U-3LNB",
+      "key_hash": "e898f63b2b934a38f62fa982e391c2aa8f192094572e36be385e09d5eca86a59",
+      "fingerprint_hash": "156a28742c821cb128cfa624b7b0b387af7265c936764588e5542cddf13a4c02",
+      "label": "tanzila",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-14",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T05:08:14.722515Z"
     }
   ]
 }
