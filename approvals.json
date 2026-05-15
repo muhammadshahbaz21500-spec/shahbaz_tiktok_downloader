@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-15T10:13:32.716062Z",
+  "updated_at": "2026-05-15T10:20:16.154633Z",
   "licenses": [
     {
       "id": 2,
@@ -268,6 +268,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-15T10:13:32.715979Z"
+    },
+    {
+      "id": 21,
+      "key_plain": "B2EC-4293-VUKC-W2RJ",
+      "key_hash": "5271abe956def6abffb5953ab941e28e67ebc21801959f3deaf09c2018c039b2",
+      "fingerprint_hash": "dee6e6075589d7c5991e3d4f71411c81b8b31e49407384e9ff1c84b5b16015c6",
+      "label": "",
+      "user_name": "touqeer pc 2",
+      "user_email": "",
+      "activation_date": "2026-05-15",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-15T10:20:16.154558Z"
     }
   ]
 }
