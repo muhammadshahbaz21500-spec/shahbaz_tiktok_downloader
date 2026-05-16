@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-16T09:50:47.056389Z",
+  "updated_at": "2026-05-16T09:52:38.551542Z",
   "licenses": [
     {
       "id": 2,
@@ -660,6 +660,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-16T09:50:47.056306Z"
+    },
+    {
+      "id": 50,
+      "key_plain": "M92S-MBNP-2YLD-XS7B",
+      "key_hash": "1d375ed2effb96c96fabb86e0cdcf1e2d4759cbe4ca8d55731ec96e7d1af34e7",
+      "fingerprint_hash": "69663b8898d0e9fe00cdce61b32ae159e1ef33601a961a5dc5d0906e92f05937",
+      "label": "",
+      "user_name": "Rashi 2",
+      "user_email": "",
+      "activation_date": "2026-05-16",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-16T09:52:38.551485Z"
     }
   ]
 }
