@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-16T18:25:22.851830Z",
+  "updated_at": "2026-05-17T07:40:27.766195Z",
   "licenses": [
     {
       "id": 2,
@@ -884,6 +884,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-16T18:25:22.851814Z"
+    },
+    {
+      "id": 66,
+      "key_plain": "MKCR-72RY-UDA7-ARLP",
+      "key_hash": "76224cb7c55cc50bca0f41602414688374cdd340b20dad5425f86cdc73d22ef2",
+      "fingerprint_hash": "a07016a637fc799a919fae43a1adb6889b2795d420fad4050a76edcfe5cee1ea",
+      "label": "",
+      "user_name": "Muzamill",
+      "user_email": "",
+      "activation_date": "2026-05-17",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-17T07:40:27.766149Z"
     }
   ]
 }
