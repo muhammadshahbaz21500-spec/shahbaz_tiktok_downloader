@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-18T18:01:38.085772Z",
+  "updated_at": "2026-05-18T18:04:13.954258Z",
   "licenses": [
     {
       "id": 2,
@@ -968,6 +968,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-18T18:01:38.085750Z"
+    },
+    {
+      "id": 72,
+      "key_plain": "EH6E-VZYZ-ECYM-M5KL",
+      "key_hash": "15b8899ea2157c39486a5bc8932b2718c9b46d9e587f74f4474fdf5594bceb0a",
+      "fingerprint_hash": "d3ed51e49022156a226328e13ef5987d19ef3c04c7261738dc1a7ebf738217ae",
+      "label": "",
+      "user_name": "Shbz basit PC 1",
+      "user_email": "",
+      "activation_date": "2026-05-18",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-18T18:04:13.954244Z"
     }
   ]
 }
