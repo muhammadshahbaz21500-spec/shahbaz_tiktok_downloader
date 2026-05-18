@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-18T18:09:00.895419Z",
+  "updated_at": "2026-05-18T19:03:56.721663Z",
   "licenses": [
     {
       "id": 2,
@@ -996,6 +996,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-18T18:09:00.895407Z"
+    },
+    {
+      "id": 74,
+      "key_plain": "FK8A-PGZV-5S4K-RKS6",
+      "key_hash": "2f1f3ef5f73c255c8b04328178183c1fd66c619b615be3afff09050e184840b9",
+      "fingerprint_hash": "bc85f3a7ef2b15b8c4e544c5f0d8ef557b23c5519c28963053d0440b20a672f6",
+      "label": "",
+      "user_name": "Shbz Yasir Bilal",
+      "user_email": "",
+      "activation_date": "2026-05-19",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-18T19:03:56.721582Z"
     }
   ]
 }
