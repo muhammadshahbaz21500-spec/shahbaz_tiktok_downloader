@@ -1,7 +1,7 @@
 {
   "version": 1,
   "schema": "tiktok-downloader-approvals-v1",
-  "updated_at": "2026-05-18T19:21:41.893015Z",
+  "updated_at": "2026-05-22T03:23:24.351583Z",
   "licenses": [
     {
       "id": 2,
@@ -1024,6 +1024,20 @@
       "max_devices": 1,
       "status": "active",
       "created_at": "2026-05-18T19:21:41.892982Z"
+    },
+    {
+      "id": 76,
+      "key_plain": "VV3T-X2Q9-CBXK-RPR5",
+      "key_hash": "a52be7d2c5c92ff8c58457af9c77e1665f5998d921eb7492e98b529314a65b69",
+      "fingerprint_hash": "a0604fdf6f7da325d4fe9b740e46ddb0f57f75e683a52571aa332ff9b8f3ed1b",
+      "label": "shehzad allied",
+      "user_name": "",
+      "user_email": "",
+      "activation_date": "2026-05-22",
+      "expiry": null,
+      "max_devices": 1,
+      "status": "active",
+      "created_at": "2026-05-22T03:23:24.351567Z"
     }
   ]
 }
